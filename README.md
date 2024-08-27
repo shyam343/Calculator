@@ -16,8 +16,8 @@ The user inputs two numbers for the operation.
 The program outputs the result.
 The program continues running until the user selects the 'Exit' option.
 ## Code Structure
-Main Class: Contains the main method, user interface logic, and handles user inputs.
-Calculator Class: Contains methods for performing the arithmetic operations.
+- Main Class: Contains the main method, user interface logic, and handles user inputs.
++ Calculator Class: Contains methods for performing the arithmetic operations.
 
 
 
